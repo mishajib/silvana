@@ -1,2 +1,1 @@
-# https://mishajib.github.io/silvana/
-# silvana
+# [Silvana](https://mishajib.github.io/silvana/)
